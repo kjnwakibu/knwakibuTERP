@@ -9,11 +9,11 @@
         <h1>Render Static Site</h1>
         <ul>
             <li><strong>Name: </strong>Kamdi Nwakibu</li>
-            <li><strong>Github Location: </strong><a target="_blank"></a></li>
-            <li><strong>Render Location: </strong><a target="_blank"></a></li>
-            <li><strong>Clearing Datsbase Movies: </strong></li>
-            <li><strong>Inserting Movies: </strong></li>
-            <li><strong>List Movies: </strong></li>
+            <li><strong>Github Location: </strong><a target="_blank" href="https://github.com/kjnwakibu/knwakibuTERP">https://github.com/kjnwakibu/knwakibuTERP</a></li>
+            <li><strong>Render Location: </strong><a target="_blank" href="https://knwakibuterp.onrender.com/">https://knwakibuterp.onrender.com/</a></li>
+            <li><strong>Clearing Datsbase Movies: </strong><a target="_blank" href="https://knwakibuterp.onrender.com/clearCollection">https://knwakibuterp.onrender.com/clearCollection</a></li>
+            <li><strong>Inserting Movies: </strong><a target="_blank" href="https://knwakibuterp.onrender.com/insertMovies">https://knwakibuterp.onrender.com/insertMovies</a></li>
+            <li><strong>List Movies: </strong><a target="_blank" href="https://knwakibuterp.onrender.com/getSummary">https://knwakibuterp.onrender.com/getSummary</a></li>
         </ul>
     </body>
 </html>
